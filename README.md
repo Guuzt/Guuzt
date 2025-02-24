@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Gustavo
 
 ## About Me
-- 💻 Desenvolvedor apaixonado por tecnologia
-- 🎮 Amante de jogos e mods
-- 🚀 Sempre aprendendo algo novo
+- 💻 Developer always looking to learn more
+- 🎮 Lover of games, mods, and scripts
+- 📒 Always learning something new
 
 ## 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
